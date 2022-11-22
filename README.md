@@ -1,6 +1,21 @@
 # Library_Management
 Library Management System developed using Java Swing and JDBC
 
+# jframe file consist of all the Source code of the project.
+# steps to get Source Code
+* 1> Library_mangement_system
+* 2> src
+* 3> jframe 
+This Consist of all the Source Code of the Frame
+* 4> Project
+this Consists of Source code of Ping Pong game, snake Game, Calculator, Tic Tac Toe.
+* 5> Project
+this Consists of source code of Stone Paper Scissor.
+
+download and Run in Eclipse or Ide
+
+# Library Management System. 
+
 Library Management System manages various activities of the library
 and helps to reduce manual work. This application acts as a channel
 between admin, Librarian and the students where there manage book,
