@@ -10,9 +10,9 @@ student records, Books and frequently update the Issued Books which
 makes it easier maintain all records.
 
 # Admin Page
-. Admin Assign the user Id for the Librarian .
-. He Create New Id and Delete the Existing User.
-. He Can View Number Librarian who are working for the Library Management System.
+* Admin Assign the user Id for the Librarian .
+* He Create New Id and Delete the Existing User.
+* He Can View Number Librarian who are working for the Library Management System.
 
 # SignUp page
 . this Page Helps the Librarian To update there Acount Which is created from the Admin.
